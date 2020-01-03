@@ -1,0 +1,26 @@
+--create .\Debug\USBLib.lib
+.\debug\usbd_ctlreq.o
+.\debug\usbd_ioreq.o
+.\debug\usbd_core.o
+.\debug\usbd_desc.o
+.\debug\stm32f1xx_hal_msp.o
+.\debug\main.o
+.\debug\stm32f1xx_it.o
+.\debug\usbd_cdc_interface.o
+.\debug\usbd_conf.o
+.\debug\system_stm32f1xx.o
+.\debug\usbd_cdc.o
+.\debug\stm32f1xx_hal_uart.o
+.\debug\stm32f1xx_hal_rcc.o
+.\debug\stm32f1xx_hal_cortex.o
+.\debug\stm32f1xx_hal.o
+.\debug\stm32f1xx_hal_tim.o
+.\debug\stm32f1xx_hal_pcd.o
+.\debug\stm32f1xx_hal_rcc_ex.o
+.\debug\stm32f1xx_hal_rtc.o
+.\debug\stm32f1xx_hal_gpio.o
+.\debug\stm32f1xx_hal_tim_ex.o
+.\debug\stm32f1xx_hal_dma.o
+.\debug\stm32f1xx_hal_rtc_ex.o
+.\debug\stm32f1xx_ll_usb.o
+.\debug\stm32f1xx_hal_pcd_ex.o

@@ -5,4 +5,5 @@ stm32_usblib
 说明：
 1)stm32外部晶振为8MHz
 2)PA11(D-),PA12(D+),PA1(USB_EN)
-
+3)接口在usblib.h中
+生成库文件为USBLib.lib
